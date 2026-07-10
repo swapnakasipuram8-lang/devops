@@ -18,10 +18,11 @@ pipeline {
 
             steps {
 
-                bat 'java Hello'
+                bat 'java pg'
 
             }
 
         }
 
     }
+}
